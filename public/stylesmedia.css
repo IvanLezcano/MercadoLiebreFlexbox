@@ -1,0 +1,161 @@
+
+
+
+@media  (min-width: 551px){
+   .buscador{
+       width: 30%;
+   }
+   .todosjuntos{
+       padding-top: 20px;
+       padding-left: 5px;
+       padding-right: 5px;
+
+   }
+ .imagenlogo{
+     width: 30%;
+ }
+.consejo{
+    width: 30%;
+}
+.productos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+article{
+    width: 45%;
+}
+.ofertas{
+    display: flex;
+    justify-content: center;
+}
+    
+    
+    .descript{
+        display: block;
+    }
+    article{
+        box-shadow:0px 0px 15px rgb(100, 100, 100);
+    
+    }
+    .PrimerMenu ul li{
+        margin-left: 10px;
+    
+    }
+    .buscador2 input{ width:80%
+    }
+    .SegundoMenu ul li{
+        margin-left: 10px;
+    
+    }
+    header nav{
+        display:block;
+    }
+        
+    .busqueda{
+        width: 100%;
+        
+    }
+    
+
+.todosjuntos{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;}
+.consejo{
+    width: 33%;
+    margin: 0 !important
+}
+.descript{
+    display: block;
+}
+.PrimerMenu ul li{
+
+}
+.SegundoMenu ul li{
+
+}
+article{
+    box-shadow:0px 0px 15px rgb(100, 100, 100);
+
+}
+header nav{
+    display:block;
+}
+.logo{
+    display: block;
+
+}
+.busqueda{
+    display: inline-block;
+    width: 33%;
+    
+}
+
+.menues{
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+
+}
+.burger-menu{
+display: none;
+}
+}
+
+@media  (min-width: 768px) { 
+    .logoybusqueda{
+        width: 50%;
+        flex-wrap: wrap;
+    }
+     .productos{
+        display: flex;
+        flex-wrap: wrap;
+      
+    }
+     article{
+        width: 24%;
+    }
+     .ofertas{
+        display: flex;
+        justify-content: center;
+    }  
+   
+.consejo{
+    width: 33%;
+    font-size: 1rem;
+}
+a{
+    font-size: 1rem;
+}
+    
+    .buscador2 input{ width:90%;
+    }
+    .descript{
+        display: block;
+        font-size: 13px;
+    }
+    article{
+        box-shadow:0px 0px 15px rgb(100, 100, 100);
+    
+    }
+    .PrimerMenu ul li{
+        margin-left: 20px;
+    
+    }
+    .SegundoMenu ul li{
+        margin-left: 20px;
+    
+    }
+    header nav{
+        display:block;
+    }
+        
+    .busqueda{
+        width: 100%;
+        
+    }
+
+} 
